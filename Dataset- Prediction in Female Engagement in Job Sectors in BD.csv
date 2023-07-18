@@ -1,0 +1,450 @@
+gender,age,occupation,monthly income,satisfied with  salary range,marital status,guardian,guardian occupation,children,city,house type,house rent,have you joined job before,satisfied with present job,opinions of colleagues/friends/relatives about present job,faced  harassment at your present role,want to switch role,want to engage yourself in job sector
+Female,40,Job holder,50000,Yes,Married,Husband,Businessman,2,Dhaka,Rent,16000,Yes,Yes,Positive,Yes,No,No
+Female,35,Housewife,0,No,Married,Husband,Businessman,1,Barishal,Rent,10000,Yes,Yes,Positive,Yes,Yes,Yes
+Female,27,Other,30000,No,Unmarried,Father,Businessman,0,Khulna,Rent,5000,No,No,Negative,Yes,Yes,Yes
+Female,37,Housewife,0,No,Married,Father,Unemployed,2,Dhaka,Own residence,0,Yes,Yes,Negative,No,Yes,No
+Female,,Job holder,29000,Yes,Married,Father,Unemployed,1,Rajshahi,Rent,10000,No,Yes,Negative,Yes,Yes,Yes
+Female,39,Housewife,0,No,Married,Father,Businessman,2,Dhaka,Rent,12000,No,No,Negative,Yes,Yes,Yes
+Female,25,NA,35000,Yes,Unmarried,Father,Unemployed,0,Barishal,Rent,5000,No,Yes,Positive,Yes,No,No
+Female,28,Job holder,40000,Yes,Married,Father,Unemployed,0,Khulna,Own residence,6000,Yes,Yes,Positive,No,No,Yes
+Female,39,Housewife,0,Yes,Married,Father,Unemployed,1,Barishal,Rent,,Yes,Yes,Positive,No,No,No
+Female,24,Other,33000,No,Unmarried,Mother,Housewife,,Khulna,Own residence,5000,No,Yes,Negative,Yes,Yes,Yes
+Female,26,Housewife,0,No,Unmarried,Father,Businessman,0,Khulna,Rent,6000,No,No,Negative,Yes,Yes,No
+Female,40,NA,44000,No,Married,Father,Job holder,2,Dhaka,Own residence,0,Yes,Yes,Negative,Yes,Yes,Yes
+Female,43,Housewife,0,No,Married,Father,Unemployed,2,Khulna,Rent,12000,Yes,No,Negative,Yes,Yes,No
+Female,24,Job holder,,No,Unmarried,Father,Job holder,0,Rajshahi,Own residence,0,No,No,Positive,No,Yes,Yes
+Female,28,Housewife,0,Yes,Married,Father,Businessman,1,Dhaka,Rent,16000,No,Yes,Positive,No,No,No
+Female,37,NA,34000,Yes,Married,Father,Businessman,2,Khulna,Own residence,0,No,Yes,Positive,No,Yes,Yes
+Female,,Housewife,0,No,Married,Husband,Unemployed,2,Barishal,Rent,12000,No,No,Negative,Yes,Yes,No
+Female,32,Other,32000,Yes,Married,Husband,Businessman,2,Dhaka,Rent,12000,No,Yes,Negative,Yes,Yes,Yes
+Female,29,Job holder,35000,No,Unmarried,Father,Businessman,0,Khulna,Own residence,0,No,No,Negative,No,Yes,No
+Female,37,Housewife,0,Yes,Married,Father,Unemployed,2,Dhaka,Rent,10000,No,Yes,Positive,No,No,Yes
+Female,45,Job holder,50000,Yes,Widow,Father,Unemployed,3,Dhaka,Own residence,0,Yes,Yes,Positive,Yes,No,No
+Female,26,Housewife,0,No,Unmarried,Father,Unemployed,0,Khulna,Own residence,0,No,Yes,Negative,Yes,Yes,Yes
+Female,38,Other,32000,Yes,Unmarried,Mother,Housewife,0,Dhaka,Rent,9000,No,No,Negative,Yes,Yes,No
+Female,40,Job holder,,No,Married,Father,Job holder,2,Khulna,Rent,10000,No,No,Positive,No,Yes,No
+Female,26,Housewife,0,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,7000,No,Yes,Negative,No,Yes,Yes
+Female,28,Job holder,34000,No,Unmarried,Father,Unemployed,0,Khulna,Rent,5000,No,Yes,Positive,No,Yes,No
+Female,30,Other,35000,Yes,Married,Husband,Job holder,2,Khulna,Hostel,,No,Yes,Positive,Yes,No,Yes
+Female,43,Job holder,45000,Yes,Married,Husband,Job holder,3,Dhaka,Hostel,14000,Yes,No,Positive,Yes,No,Yes
+Female,36,Housewife,0,No,Married,Father,Businessman,2,Dhaka,Rent,11000,Yes,Yes,Positive,No,No,No
+Female,25,Job holder,40000,Yes,Unmarried,Father,Businessman,0,Khulna,Rent,6000,No,Yes,Positive,Yes,No,No
+Female,28,NA,22000,No,Unmarried,Father,Unemployed,0,Khulna,Hostel,4000,No,No,Negative,Yes,Yes,Yes
+Female,,Job holder,37000,Yes,Married,Husband,Job holder,,Khulna,Rent,11000,Yes,Yes,Positive,Yes,Yes,No
+Female,34,Housewife,0,No,Married,Father,Businessman,2,Khulna,Rent,12000,Yes,No,Negative,No,Yes,No
+Female,32,Job holder,35000,No,Married,Father,Businessman,2,Dhaka,Hostel,13000,No,Yes,Negative,No,Yes,Yes
+Female,44,Other,46000,Yes,Married,Father,Unemployed,2,Khulna,Rent,14000,No,Yes,Positive,Yes,No,No
+Female,27,Housewife,0,No,Unmarried,Mother,Housewife,0,Khulna,Own residence,0,No,Yes,Positive,Yes,Yes,Yes
+Female,31,Job holder,42000,Yes,Married,Husband,Businessman,1,Khulna,Rent,12000,Yes,Yes,Positive,No,No,No
+Female,39,Job holder,20000,No,Unmarried,Father,Businessman,0,Khulna,Rent,4000,No,Yes,Negative,No,Yes,Yes
+Female,50,Housewife,0,No,Married,Husband,Businessman,,Rajshahi,Rent,10000,Yes,No,Positive,Yes,Yes,No
+Female,26,Job holder,,No,Unmarried,Father,Unemployed,,Khulna,Hostel,,No,Yes,Negative,No,Yes,Yes
+Female,34,Job holder,32000,No,Married,Father,Unemployed,2,Khulna,Rent,9000,Yes,No,Positive,No,Yes,No
+Female,29,Housewife,0,No,Unmarried,Father,Businessman,0,Khulna,Hostel,4000,No,No,Positive,No,Yes,No
+Female,38,Job holder,28000,No,Married,Husband,Job holder,2,Khulna,Rent,12000,Yes,Yes,Negative,Yes,Yes,Yes
+Female,27,NA,40000,Yes,Married,Husband,Job holder,1,Chittagong,Rent,13000,Yes,Yes,Positive,No,No,No
+Female,32,Other,26000,No,Married,Husband,Unemployed,1,Khulna,Rent,9000,Yes,Yes,Positive,Yes,Yes,No
+Female,39,Job holder,50000,Yes,Married,Father,Unemployed,2,Dhaka,Rent,16000,Yes,Yes,Positive,No,No,No
+Female,50,Housewife,0,Yes,Married,Father,Unemployed,2,Dhaka,Rent,18000,Yes,No,Positive,No,No,No
+Female,26,Job holder,32000,No,Unmarried,Father,Job holder,0,Khulna,Rent,5000,No,Yes,Positive,Yes,Yes,Yes
+Female,37,Job holder,28000,No,Married,Husband,Job holder,2,Chittagong,Rent,10000,Yes,No,Positive,Yes,Yes,Yes
+Female,32,Job holder,37000,Yes,Married,Husband,Job holder,,Chittagong,Hostel,7000,No,Yes,Positive,Yes,No,No
+Female,44,Housewife,0,No,Married,Father,Unemployed,2,Dhaka,Rent,13000,Yes,Yes,Positive,No,No,No
+Female,,Other,25000,No,Unmarried,Father,Unemployed,0,Khulna,Hostel,5000,No,No,Positive,Yes,Yes,Yes
+Female,22,NA,18000,No,Unmarried,Father,Job holder,0,Dhaka,Hostel,5000,No,Yes,Negative,No,Yes,Yes
+Female,35,Housewife,0,No,Married,Father,Job holder,2,Dhaka,Rent,10000,Yes,No,Positive,No,Yes,Yes
+Female,23,Job holder,27000,No,Married,Father,Businessman,1,Khulna,Rent,3000,No,No,Negative,No,Yes,Yes
+Female,48,Job holder,,Yes,Married,Father,Unemployed,3,Dhaka,Own residence,0,Yes,Yes,Positive,Yes,No,No
+Female,29,Housewife,0,No,Unmarried,Father,Unemployed,0,Khulna,Rent,5000,No,No,Negative,Yes,Yes,Yes
+Female,27,Housewife,0,No,Unmarried,Father,Job holder,0,Dhaka,Own residence,0,No,Yes,Negative,Yes,Yes,Yes
+Female,40,Housewife,0,Yes,Married,Husband,Job holder,2,Barishal,Rent,13000,Yes,No,Negative,Yes,No,Yes
+Female,29,Job holder,40000,Yes,Unmarried,Father,Unemployed,0,Dhaka,Rent,5000,No,Yes,Positive,No,No,Yes
+Female,41,Housewife,,Yes,Married,Husband,Job holder,2,Rajshahi,Own residence,0,No,Yes,Positive,No,No,Yes
+Female,25,Job holder,20000,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,10000,No,Yes,Negative,Yes,Yes,Yes
+Female,28,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Own residence,0,No,No,Negative,No,Yes,Yes
+Female,39,Job holder,43000,Yes,Married,Father,Job holder,2,Khulna,Rent,12000,Yes,Yes,Negative,No,No,No
+Female,29,Housewife,0,No,Married,Father,Job holder,1,Khulna,Own residence,0,No,No,Negative,No,Yes,Yes
+Female,35,Job holder,32000,Yes,Married,Husband,Businessman,2,Khulna,Rent,11000,No,No,Positive,No,Yes,Yes
+Female,,Housewife,0,No,Unmarried,Father,Unemployed,0,Sylhet,Rent,15000,No,Yes,Average,No,Yes,Yes
+Female,30,Job holder,34000,Yes,Married,Father,Job holder,0,Dhaka,Hostel,5000,No,No,Positive,No,No,No
+Female,22,Housewife,0,No,Unmarried,Father,Businessman,0,Khulna,Hostel,4000,No,Yes,Negative,Yes,Yes,Yes
+Female,23,Job holder,34000,Yes,Unmarried,Father,Businessman,,Dhaka,Rent,5000,No,No,Positive,No,No,No
+Female,27,Housewife,,Yes,Married,Father,Unemployed,1,Dhaka,Rent,18000,Yes,Yes,Positive,Yes,No,Yes
+Female,23,Other,20000,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,4000,No,Yes,Positive,Yes,Yes,Yes
+Female,,Housewife,0,No,Married,Father,Businessman,2,Dhaka,Own residence,,No,Yes,Average,No,No,No
+Female,40,Job holder,43000,Yes,Married,Husband,Businessman,2,Dhaka,Rent,12000,No,No,Negative,Yes,No,No
+Female,29,Housewife,0,No,Married,Father,Unemployed,2,Khulna,Rent,12000,Yes,Yes,Positive,No,No,Yes
+Female,22,Job holder,16000,No,Unmarried,Father,Unemployed,0,Khulna,Hostel,3000,No,No,Negative,No,Yes,Yes
+Female,42,Housewife,0,Yes,Married,Husband,Job holder,2,Dhaka,Rent,22000,Yes,Yes,Positive,No,No,No
+Female,44,Job holder,45000,Yes,Married,Father,Unemployed,1,Dhaka,Rent,,No,Yes,Positive,No,No,No
+Female,27,Housewife,0,No,Unmarried,Father,Unemployed,0,Barishal,Hostel,4000,No,No,Negative,No,Yes,No
+Female,26,NA,22000,No,Unmarried,Father,Businessman,0,Dhaka,Own residence,,No,No,Average,Yes,Yes,Yes
+Female,34,Housewife,0,No,Married,Husband,Businessman,2,Chittagong,Rent,13000,No,Yes,Positive,No,No,No
+Female,27,Job holder,21000,No,Unmarried,Father,Unemployed,0,Dhaka,Hostel,4000,No,No,Negative,Yes,Yes,Yes
+Female,28,Housewife,0,No,Unmarried,Father,Job holder,2,Sylhet,Own residence,,No,Yes,Average,Yes,Yes,Yes
+Female,28,Job holder,40000,Yes,Unmarried,Father,Job holder,0,Dhaka,Rent,6000,Yes,Yes,Positive,No,No,Yes
+Female,23,Housewife,0,Yes,Married,Husband,Businessman,0,Dhaka,Rent,5500,Yes,Yes,Positive,No,No,No
+Female,27,Job holder,,Yes,Unmarried,Father,Unemployed,0,Sylhet,Rent,6800,No,Yes,Positive,Yes,No,No
+Female,30,Housewife,0,No,Married,Husband,Job holder,1,Sylhet,Rent,14000,Yes,Yes,Positive,No,No,No
+Female,27,Job holder,42000,Yes,Unmarried,Father,Businessman,0,Sylhet,Rent,7500,Yes,Yes,Positive,No,No,No
+Female,21,Housewife,0,No,Unmarried,Father,Job holder,0,Sylhet,Rent,7000,No,No,Average,No,Yes,No
+Female,38,Job holder,32000,No,Married,Father,Unemployed,2,Sylhet,Rent,12000,No,Yes,Positive,No,Yes,Yes
+Female,36,Housewife,0,No,Married,Father,Businessman,2,Khulna,Rent,10000,No,No,Positive,Yes,Yes,Yes
+Female,32,Other,42000,Yes,Unmarried,Father,Job holder,0,Dhaka,Own residence,,No,Yes,Positive,No,No,No
+Female,24,Housewife,0,No,Unmarried,Father,Unemployed,0,Khulna,Own residence,,No,No,Negative,Yes,Yes,Yes
+Female,24,Job holder,17000,No,Unmarried,Father,Job holder,0,Rajshahi,Rent,3000,No,Yes,Negative,No,Yes,Yes
+Female,42,Housewife,0,Yes,Married,Husband,Businessman,1,Khulna,Own residence,,No,No,Positive,Yes,No,No
+Female,26,Job holder,22000,No,Unmarried,Father,Unemployed,0,Khulna,Hostel,3000,No,No,Negative,No,Yes,Yes
+Female,28,Housewife,0,No,Married,Husband,Job holder,1,Khulna,Own residence,,Yes,Yes,Positive,No,No,No
+Female,46,Job holder,53000,Yes,Married,Father,Unemployed,3,Khulna,Rent,17000,Yes,Yes,Positive,No,No,Yes
+Female,29,Housewife,0,No,Married,Husband,Businessman,1,Khulna,Rent,11000,Yes,Yes,Negative,Yes,Yes,Yes
+Female,23,Job holder,25000,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,9500,No,No,Positive,No,Yes,Yes
+Female,39,Housewife,0,No,Married,Father,Unemployed,,Dhaka,Own residence,,No,No,Positive,Yes,No,No
+Female,25,Job holder,60000,Yes,Unmarried,Father,Job holder,0,Dhaka,Rent,3200,No,Yes,Positive,No,No,No
+Female,39,Housewife,0,No,Married,Husband,Businessman,3,Sylhet,Rent,13000,Yes,Yes,Positive,No,No,No
+Female,22,Job holder,20000,Yes,Unmarried,Mother,Housewife,0,Chittagong,Rent,5000,No,Yes,Average,Yes,No,No
+Female,24,Housewife,0,No,Unmarried,Husband,Job holder,0,Dhaka,Rent,3000,No,Yes,Average,No,No,No
+Female,43,Job holder,10000,No,Unmarried,Father,Businessman,0,Khulna,Rent,6000,Yes,No,Positive,Yes,Yes,Yes
+Female,22,Job holder,18000,Yes,Unmarried,Father,Job holder,0,Dhaka,Hostel,5000,No,Yes,Positive,No,Yes,No
+Female,25,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Hostel,5000,Yes,No,Negative,No,Yes,Yes
+Female,25,Job holder,18000,No,Married,Husband,Businessman,1,Dhaka,Rent,5000,Yes,Yes,Negative,No,Yes,Yes
+Female,30,Housewife,0,No,Married,Father,Job holder,1,Dhaka,Rent,10000,Yes,No,Positive,Yes,Yes,Yes
+Female,23,NA,15000,No,Married,Father,Job holder,0,Dhaka,Rent,3000,Yes,Yes,Average,No,Yes,No
+Female,24,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Rent,12000,No,Yes,Positive,No,No,No
+Female,24,Other,20000,No,Unmarried,Father,Job holder,0,Chittagong,Rent,15000,No,No,Average,Yes,Yes,Yes
+Female,20,Housewife,0,No,Married,Husband,Job holder,1,Khulna,Rent,14000,No,No,Positive,Yes,Yes,Yes
+Female,25,Job holder,12000,Yes,Unmarried,Father,Businessman,0,Sylhet,Rent,15000,No,No,Average,No,Yes,Yes
+Female,46,Housewife,0,No,Married,Father,Unemployed,3,Khulna,Rent,3000,No,Yes,Positive,No,No,No
+Female,29,Job holder,35000,Yes,Unmarried,Father,Job holder,0,Chittagong,Own residence,0,No,No,Positive,No,Yes,Yes
+Female,33,Housewife,0,Yes,Unmarried,Father,Businessman,0,Khulna,Rent,3500,Yes,Yes,Positive,No,No,No
+Female,22,Job holder,,No,Married,Father,Businessman,1,Khulna,Rent,7500,No,No,Average,Yes,Yes,Yes
+Female,22,Job holder,20000,Yes,Unmarried,Mother,Housewife,0,Chittagong,Rent,4000,No,Yes,Average,No,No,No
+Female,35,Housewife,0,Yes,Unmarried,Mother,Housewife,0,Dhaka,Hostel,10000,Yes,Yes,Positive,No,No,No
+Female,24,Job holder,22000,No,Unmarried,Mother,Job holder,0,Khulna,Own residence,0,No,No,Average,No,Yes,Yes
+Female,33,Housewife,0,No,Unmarried,Father,Businessman,0,Khulna,Own residence,0,No,No,Average,Yes,Yes,Yes
+Female,28,Other,19000,No,Married,Husband,Job holder,,Dhaka,Rent,3500,Yes,Yes,Negative,No,Yes,Yes
+Female,27,Job holder,50000,Yes,Unmarried,Father,Businessman,0,Mymensingh,Rent,15000,Yes,Yes,Positive,No,No,No
+Female,25,Housewife,0,No,Unmarried,Father,Job holder,2,Dhaka,Rent,7000,No,No,Average,No,Yes,Yes
+Female,34,Job holder,18000,No,Married,Father,Job holder,1,Sylhet,Rent,5000,No,No,Positive,No,Yes,No
+Female,38,Housewife,0,No,Married,Father,Job holder,3,Sylhet,Rent,5000,No,No,Positive,No,Yes,Yes
+Female,25,Job holder,10000,No,Married,Father,Job holder,1,Mymensingh,Rent,2000,No,Yes,Average,No,Yes,Yes
+Female,34,Housewife,0,No,Married,Father,Businessman,2,Sylhet,Rent,3800,No,No,Average,No,Yes,Yes
+Female,24,Job holder,21500,Yes,Married,Husband,Job holder,1,Dhaka,Rent,3000,No,Yes,Positive,Yes,No,No
+Female,26,Housewife,0,Yes,Unmarried,Father,Job holder,0,Dhaka,Rent,6000,No,Yes,Positive,No,No,No
+Female,25,Job holder,20000,Yes,Unmarried,Father,Job holder,0,Dhaka,Own residence,0,No,Yes,Average,No,No,Yes
+Female,27,Housewife,0,No,Married,Father,Job holder,2,Sylhet,Hostel,10000,No,No,Average,Yes,Yes,Yes
+Female,21,Other,5000,No,Married,Husband,Businessman,1,Sylhet,Rent,10000,No,No,Positive,No,Yes,Yes
+Female,37,Housewife,0,No,Unmarried,Father,Job holder,0,Mymensingh,Rent,3000,No,No,Positive,No,Yes,Yes
+Female,23,Job holder,25000,Yes,Married,Mother,Businessman,2,Rajshahi,Own residence,0,Yes,Yes,Average,No,No,No
+Female,30,Housewife,0,No,Married,Husband,Job holder,3,Rajshahi,Rent,14000,No,No,Average,Yes,Yes,Yes
+Female,22,Job holder,14000,Yes,Unmarried,Father,Businessman,0,Dhaka,Rent,35000,Yes,Yes,Positive,Yes,No,No
+Female,28,NA,57000,Yes,Married,Father,Job holder,2,Dhaka,Hostel,20000,Yes,Yes,Positive,No,No,Yes
+Female,29,Job holder,54000,Yes,Married,Father,Unemployed,1,Dhaka,Own residence,0,Yes,Yes,Positive,No,No,No
+Female,27,Housewife,0,No,Married,Husband,Businessman,2,Dhaka,Own residence,0,Yes,No,Average,Yes,Yes,Yes
+Female,32,Job holder,29000,Yes,Unmarried,Mother,Housewife,0,Rajshahi,Rent,9000,No,Yes,Positive,No,No,No
+Female,21,Housewife,,No,Unmarried,Father,Job holder,0,Dhaka,Rent,7000,No,No,Average,Yes,Yes,Yes
+Female,27,Job holder,25000,No,Married,Father,Businessman,2,Dhaka,Rent,11000,Yes,Yes,Positive,No,Yes,Yes
+Female,22,Housewife,0,No,Unmarried,Father,Businessman,0,Sylhet,Hostel,5000,Yes,No,Positive,No,Yes,Yes
+Female,28,Job holder,20000,No,Married,Father,Job holder,2,Dhaka,Rent,3000,No,Yes,Average,No,Yes,Yes
+Female,23,Housewife,0,No,Unmarried,Father,Businessman,0,Chittagong,Rent,2000,Yes,No,Positive,No,Yes,No
+Female,20,Other,30000,No,Unmarried,Father,Unemployed,0,Chittagong,Rent,2500,No,Yes,Positive,No,Yes,Yes
+Female,29,Housewife,0,No,Married,Father,Job holder,1,Mymensingh,Own residence,,No,No,Average,No,Yes,Yes
+Female,23,Job holder,15000,Yes,Unmarried,Father,Job holder,1,Dhaka,Rent,7000,No,No,Average,No,Yes,Yes
+Female,23,Job holder,15000,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,7000,No,No,Average,No,Yes,Yes
+Female,22,Housewife,0,Yes,Unmarried,Father,Job holder,0,Mymensingh,Hostel,3000,Yes,Yes,Average,Yes,No,No
+Female,,Job holder,20000,No,Unmarried,Father,Unemployed,,Khulna,Hostel,4000,No,No,Average,No,Yes,Yes
+Female,30,Housewife,0,No,Married,Husband,Job holder,1,Dhaka,Rent,15000,No,No,Average,No,Yes,Yes
+Female,24,Job holder,25000,Yes,Married,Husband,Businessman,0,Dhaka,Rent,5000,Yes,Yes,Positive,Yes,No,No
+Female,21,Housewife,0,No,Unmarried,Father,Job holder,0,Dhaka,Own residence,,No,Yes,Average,No,No,No
+Female,20,Job holder,5000,Yes,Unmarried,Mother,Housewife,0,Chittagong,Own residence,,No,Yes,Positive,Yes,No,No
+Female,21,Job holder,45000,Yes,Married,Father,Businessman,1,Mymensingh,Rent,4500,No,No,Positive,No,No,Yes
+Female,21,Housewife,0,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,15000,Yes,No,Average,Yes,Yes,No
+Female,20,NA,15000,No,Unmarried,Father,Job holder,0,Mymensingh,Rent,6000,No,No,Average,Yes,Yes,Yes
+Female,21,Housewife,0,No,Unmarried,Father,Job holder,0,Dhaka,Rent,8000,Yes,Yes,Positive,No,No,No
+Female,33,Housewife,0,No,Married,Husband,Businessman,2,Dhaka,Rent,15000,No,No,Negative,Yes,Yes,Yes
+Female,22,Job holder,19500,Yes,Unmarried,Mother,Housewife,,Barishal,Hostel,4500,No,Yes,Positive,No,No,No
+Female,21,Housewife,0,No,Unmarried,Father,Businessman,0,Mymensingh,Hostel,2000,No,Yes,Positive,No,No,Yes
+Female,20,Other,,No,Unmarried,Father,Businessman,0,Khulna,Rent,2000,Yes,No,Average,No,Yes,Yes
+Female,25,Job holder,15000,No,Married,Father,Businessman,0,Mymensingh,Hostel,3500,No,No,Average,No,Yes,Yes
+Female,20,Housewife,0,No,Unmarried,Mother,Job holder,0,Sylhet,Rent,1750,No,Yes,Positive,No,No,No
+Female,25,Job holder,12000,No,Married,Father,Unemployed,1,Dhaka,Hostel,4500,Yes,No,Average,Yes,Yes,Yes
+Female,23,Job holder,40000,No,Unmarried,Father,Businessman,0,Rajshahi,Own residence,0,No,No,Average,No,Yes,Yes
+Female,23,Job holder,40000,No,Unmarried,Father,Businessman,0,Rajshahi,Own residence,0,No,No,Average,Yes,Yes,Yes
+Female,22,Housewife,0,No,Unmarried,Father,Businessman,0,Chittagong,Rent,4200,Yes,Yes,Positive,No,Yes,Yes
+Female,22,Job holder,24000,No,Unmarried,Father,Businessman,0,Chittagong,Rent,4200,Yes,No,Positive,No,Yes,Yes
+Female,21,Job holder,6000,No,Unmarried,Father,Businessman,0,Sylhet,Rent,2000,Yes,No,Average,No,Yes,Yes
+Female,25,Job holder,15000,No,Married,Father,Businessman,,Mymensingh,Rent,3500,No,No,Average,Yes,Yes,Yes
+Female,21,Housewife,0,No,Unmarried,Father,Job holder,0,Sylhet,Rent,25000,Yes,No,Average,Yes,Yes,Yes
+Female,31,Job holder,10000,Yes,Unmarried,Father,Job holder,0,Mymensingh,Rent,3000,Yes,Yes,Positive,No,No,No
+Female,24,Job holder,16000,No,Unmarried,Father,Job holder,0,Khulna,Rent,2000,No,No,Average,Yes,Yes,Yes
+Female,22,Housewife,0,No,Unmarried,Husband,Job holder,0,Dhaka,Own residence,0,Yes,Yes,Average,Yes,No,No
+Female,23,Other,9000,No,Married,Husband,Job holder,1,Dhaka,Own residence,0,Yes,No,Average,Yes,Yes,Yes
+Female,28,Housewife,0,Yes,Married,Mother,Job holder,1,Dhaka,Own residence,0,Yes,Yes,Average,Yes,No,No
+Female,22,Job holder,,No,Unmarried,Mother,Job holder,0,Dhaka,Rent,5000,Yes,No,Average,Yes,Yes,Yes
+Female,21,Job holder,30000,Yes,Unmarried,Father,Job holder,0,Mymensingh,Rent,4000,No,Yes,Positive,No,No,No
+Female,34,Housewife,0,Yes,Married,Husband,Job holder,1,Dhaka,Own residence,0,Yes,Yes,Average,Yes,No,Yes
+Female,22,Job holder,29000,No,Married,Husband,Job holder,,Dhaka,Rent,6000,Yes,No,Average,Yes,Yes,Yes
+Female,25,Housewife,0,No,Unmarried,Father,Businessman,1,Dhaka,Rent,5000,Yes,No,Negative,No,Yes,Yes
+Female,26,Job holder,47000,Yes,Married,Husband,Job holder,0,Dhaka,Hostel,13000,Yes,No,Average,Yes,No,No
+Female,22,Housewife,0,No,Unmarried,Mother,Housewife,0,Dhaka,Hostel,9000,Yes,No,Average,Yes,Yes,Yes
+Female,22,Job holder,29000,No,Married,Husband,Job holder,1,Dhaka,Rent,9000,Yes,No,Average,No,Yes,Yes
+Female,28,Job holder,29000,Yes,Unmarried,Father,Job holder,0,Dhaka,Rent,9000,Yes,Yes,Average,No,No,No
+Female,22,Housewife,0,No,Unmarried,Mother,Housewife,0,Dhaka,Own residence,0,Yes,No,Average,Yes,Yes,Yes
+Female,22,Job holder,39000,Yes,Married,Husband,Businessman,1,Dhaka,Rent,10000,Yes,Yes,Average,No,No,No
+Female,22,Job holder,29000,No,Married,Mother,Job holder,1,Dhaka,Rent,5000,Yes,No,Average,Yes,Yes,Yes
+Female,31,Housewife,0,No,Unmarried,Mother,Housewife,0,Dhaka,Own residence,0,Yes,No,Average,Yes,Yes,No
+Female,22,Job holder,25000,No,Unmarried,Father,Job holder,0,Dhaka,Rent,4500,Yes,No,Average,Yes,Yes,Yes
+Female,24,Job holder,23000,No,Married,Husband,Businessman,1,Dhaka,Own residence,0,Yes,No,Average,No,Yes,Yes
+Female,24,Job holder,25000,No,Unmarried,Mother,Job holder,0,Dhaka,Rent,3500,Yes,No,Average,Yes,Yes,No
+Female,24,Housewife,0,No,Unmarried,Mother,Job holder,0,Dhaka,Own residence,,Yes,No,Average,No,Yes,Yes
+Female,32,Job holder,23000,No,Married,Father,Businessman,,Rajshahi,Rent,4000,Yes,No,Average,Yes,Yes,No
+Female,24,Housewife,0,No,Married,Husband,Job holder,,Rajshahi,Rent,5000,Yes,No,Average,Yes,Yes,Yes
+Female,,Job holder,24000,No,Married,Husband,Job holder,1,Rajshahi,Rent,4000,Yes,No,Average,Yes,Yes,Yes
+Female,24,Housewife,0,Yes,Unmarried,Father,Job holder,0,Sylhet,Rent,15000,No,Yes,Positive,No,No,No
+Female,25,Job holder,20000,No,Unmarried,Father,Businessman,0,Chittagong,Own residence,0,No,No,Average,Yes,Yes,Yes
+Female,25,Job holder,21000,No,Unmarried,Father,Job holder,0,Dhaka,Rent,5000,Yes,No,Average,Yes,Yes,Yes
+Female,38,Housewife,0,No,Married,Husband,Businessman,2,Khulna,Rent,14000,No,Yes,Positive,No,No,Yes
+Female,20,Job holder,20000,Yes,Unmarried,Father,Job holder,0,Dhaka,Own residence,0,Yes,Yes,Positive,No,No,No
+Female,22,Job holder,30000,No,Unmarried,Father,Unemployed,0,Dhaka,Own residence,0,No,No,Positive,No,Yes,Yes
+Female,28,Housewife,0,No,Married,Father,Businessman,1,Mymensingh,Rent,5000,No,No,Average,No,Yes,Yes
+Female,35,Housewife,0,No,Married,Husband,Job holder,2,Dhaka,Rent,12000,Yes,No,Average,Yes,Yes,Yes
+Female,28,Job holder,40000,Yes,Unmarried,Father,Job holder,0,Rajshahi,Hostel,8000,No,Yes,Positive,No,No,No
+Female,25,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Rent,11000,No,No,Average,No,Yes,Yes
+Female,47,Job holder,55000,Yes,Married,Father,Unemployed,3,Dhaka,Rent,16000,Yes,Yes,Positive,No,No,No
+Female,38,Job holder,38000,No,Married,Husband,Job holder,2,Khulna,Own residence,,Yes,No,Average,Yes,Yes,Yes
+Female,32,Housewife,0,No,Married,Father,Businessman,1,Barishal,Rent,6000,No,No,Positive,No,Yes,Yes
+Female,27,Job holder,42000,Yes,Unmarried,Father,Unemployed,0,Khulna,Rent,9000,No,Yes,Average,Yes,No,Yes
+Female,29,Housewife,0,No,Married,Husband,Businessman,1,Chittagong,Hostel,7000,No,No,Average,No,Yes,Yes
+Female,28,Job holder,23000,No,Unmarried,Father,Unemployed,0,Mymensingh,Rent,4000,No,No,Negative,No,Yes,Yes
+Female,35,Job holder,27000,No,Married,Husband,Job holder,1,Dhaka,Hostel,7000,No,No,Positive,No,Yes,Yes
+Female,45,Housewife,0,Yes,Married,Husband,Businessman,2,Chittagong,Own residence,0,Yes,Yes,Positive,Yes,No,No
+Female,29,Job holder,29000,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,4000,No,No,Average,No,Yes,Yes
+Female,37,Housewife,0,No,Married,Father,Job holder,1,Rajshahi,Rent,10000,Yes,Yes,Negative,Yes,No,No
+Female,40,Other,43000,Yes,Married,Husband,Job holder,2,Dhaka,Own residence,0,Yes,Yes,Positive,No,No,No
+Female,38,Housewife,0,No,Married,Husband,Businessman,1,Mymensingh,Rent,8000,No,No,Average,No,Yes,Yes
+Female,28,Job holder,20000,No,Unmarried,Father,Unemployed,0,Chittagong,Hostel,4000,No,No,Positive,No,Yes,No
+Female,26,Housewife,0,No,Unmarried,Father,Businessman,0,Chittagong,Rent,5000,No,No,Positive,Yes,Yes,Yes
+Female,39,Job holder,48000,Yes,Married,Father,Unemployed,1,Dhaka,Own residence,0,Yes,Yes,Positive,No,No,No
+Female,28,Job holder,29000,No,Unmarried,Father,Job holder,,Barishal,Rent,7000,No,No,Average,No,Yes,Yes
+Female,45,Housewife,0,No,Married,Father,Businessman,2,Chittagong,Hostel,10000,Yes,Yes,Positive,Yes,No,No
+Female,39,Job holder,30000,No,Married,Husband,Job holder,1,Mymensingh,Rent,9000,No,No,Negative,Yes,Yes,Yes
+Female,25,Housewife,0,No,Unmarried,Father,Unemployed,0,Mymensingh,Rent,5000,No,No,Negative,No,Yes,Yes
+Female,38,Job holder,50000,Yes,Married,Husband,Businessman,2,Mymensingh,Own residence,0,Yes,Yes,Average,No,No,No
+Female,40,Housewife,0,No,Married,Father,Unemployed,1,Dhaka,Rent,11000,Yes,Yes,Positive,No,No,Yes
+Female,45,Job holder,30000,No,Married,Husband,Businessman,2,Chittagong,Rent,10000,No,No,Negative,Yes,Yes,Yes
+Female,29,Job holder,22000,No,Unmarried,Father,Unemployed,0,Chittagong,Hostel,5000,No,No,Positive,No,Yes,Yes
+Female,30,Housewife,0,No,Married,Husband,Job holder,1,Dhaka,Rent,7000,No,No,Average,Yes,Yes,Yes
+Female,39,Job holder,60000,Yes,Married,Husband,Businessman,2,Khulna,Own residence,0,Yes,Yes,Negative,No,No,No
+Female,41,Housewife,0,No,Married,Father,Unemployed,2,Khulna,Rent,8000,Yes,No,Positive,No,Yes,Yes
+Female,43,Job holder,42000,Yes,Married,Husband,Businessman,1,Dhaka,Own residence,0,Yes,Yes,Positive,Yes,No,No
+Female,22,Housewife,0,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,9000,No,No,Negative,No,Yes,Yes
+Female,24,Other,32000,Yes,Unmarried,Father,Businessman,0,Khulna,Hostel,7000,No,No,Positive,No,Yes,Yes
+Female,25,Housewife,0,No,Unmarried,Mother,Housewife,0,Khulna,Rent,8000,No,No,Negative,Yes,Yes,Yes
+Female,43,Housewife,0,No,Married,Father,Unemployed,3,Barishal,Own residence,0,Yes,Yes,Positive,Yes,No,No
+Female,50,Job holder,58000,Yes,Married,Husband,Businessman,2,Barishal,Rent,17000,No,Yes,Positive,No,No,Yes
+Female,26,Housewife,0,No,Unmarried,Father,Businessman,0,Khulna,Rent,6000,No,No,Negative,No,Yes,Yes
+Female,24,Job holder,31000,No,Unmarried,Mother,Housewife,0,Mymensingh,Hostel,10000,No,No,Average,Yes,Yes,Yes
+Female,28,Housewife,0,Yes,Unmarried,Father,Job holder,0,Dhaka,Hostel,11000,Yes,Yes,Positive,No,No,No
+Female,38,Housewife,0,No,Married,Father,Unemployed,1,Dhaka,Rent,12000,No,No,Negative,No,Yes,Yes
+Female,20,Job holder,22000,No,Unmarried,Mother,Businessman,0,Khulna,Own residence,0,No,No,Average,No,Yes,Yes
+Female,24,Job holder,27500,No,Unmarried,Father,Job holder,0,Dhaka,Rent,9000,Yes,No,Negative,No,Yes,Yes
+Female,38,Housewife,0,Yes,Married,Husband,Job holder,1,Mymensingh,Rent,10000,Yes,Yes,Positive,Yes,No,No
+Female,40,Housewife,0,No,Married,Father,Unemployed,1,Barishal,Hostel,8000,No,No,Average,No,Yes,Yes
+Female,32,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Hostel,12000,Yes,No,Negative,No,Yes,Yes
+Female,37,Job holder,37000,No,Married,Husband,Job holder,2,Dhaka,Rent,10000,No,No,Negative,Yes,Yes,Yes
+Female,41,NA,46000,Yes,Married,Husband,Businessman,3,Khulna,Own residence,0,Yes,Yes,Positive,No,No,No
+Female,27,Housewife,0,No,Unmarried,Father,Job holder,0,Dhaka,Rent,7000,No,No,Positive,No,Yes,Yes
+Female,29,Job holder,31500,No,Married,Husband,Businessman,1,Chittagong,Hostel,10000,No,No,Negative,Yes,Yes,Yes
+Female,31,Job holder,48000,Yes,Married,Husband,Job holder,0,Chittagong,Rent,8500,Yes,Yes,Positive,No,No,No
+Female,35,Housewife,0,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,6000,Yes,No,Average,No,Yes,Yes
+Female,26,Job holder,27500,No,Unmarried,Father,Job holder,0,Khulna,Own residence,0,No,No,Negative,Yes,Yes,Yes
+Female,39,Housewife,0,No,Married,Father,Unemployed,1,Mymensingh,Rent,8000,Yes,No,Positive,No,Yes,Yes
+Female,42,Job holder,52000,Yes,Married,Father,Job holder,2,Dhaka,Rent,16000,Yes,Yes,Positive,No,No,No
+Female,22,Other,29000,No,Unmarried,Father,Unemployed,0,Khulna,Rent,4000,No,No,Negative,No,Yes,No
+Female,26,Housewife,0,No,Unmarried,Mother,Housewife,0,Dhaka,Rent,11000,No,No,Positive,Yes,Yes,Yes
+Female,27,Job holder,33000,No,Unmarried,Father,Unemployed,0,Barishal,Rent,5000,No,No,Negative,No,Yes,Yes
+Female,45,Job holder,60000,Yes,Married,Father,Businessman,3,Mymensingh,Own residence,0,Yes,Yes,Positive,No,No,No
+Female,28,Housewife,0,No,Unmarried,Father,Unemployed,0,Chittagong,Rent,11500,No,No,Average,Yes,Yes,Yes
+Female,29,Job holder,26000,No,Unmarried,Father,Job holder,0,Dhaka,Rent,7000,No,No,Negative,No,Yes,Yes
+Female,30,Job holder,46000,Yes,Married,Husband,Unemployed,1,Chittagong,Hostel,13000,Yes,Yes,Positive,No,No,No
+Female,36,Housewife,0,Yes,Married,Father,Job holder,2,Dhaka,Own residence,20000,No,Yes,Positive,No,No,No
+Female,32,Job holder,38000,No,Married,Husband,Businessman,1,Khulna,Rent,7500,Yes,No,Negative,Yes,Yes,Yes
+Female,27,Housewife,0,No,Unmarried,Mother,Job holder,0,Khulna,Hostel,6500,No,No,Positive,Yes,Yes,Yes
+Female,38,Job holder,25000,No,Married,Father,Businessman,1,Dhaka,Own residence,0,Yes,No,Average,No,Yes,Yes
+Female,23,Job holder,29500,No,Unmarried,Mother,Job holder,0,Barishal,Hostel,6000,No,No,Negative,Yes,Yes,Yes
+Female,30,Housewife,0,No,Married,Father,Businessman,1,Dhaka,Rent,14000,No,No,Positive,No,Yes,Yes
+Female,33,Job holder,32500,No,Married,Father,Unemployed,0,Chittagong,Hostel,9500,No,No,Negative,No,Yes,Yes
+Female,37,Housewife,0,No,Married,Husband,Job holder,1,Dhaka,Rent,12000,Yes,No,Average,Yes,Yes,Yes
+Female,28,Other,20000,No,Unmarried,Father,Businessman,0,Dhaka,Hostel,13000,Yes,No,Negative,No,Yes,Yes
+Female,33,Housewife,0,No,Married,Husband,Job holder,0,Chittagong,Own residence,0,No,Yes,Average,No,No,No
+Female,23,Job holder,32000,No,Married,Husband,Businessman,1,Dhaka,Hostel,11000,No,No,Negative,No,Yes,Yes
+Female,28,Job holder,35500,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,13000,No,No,Average,No,Yes,No
+Female,32,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Own residence,0,No,No,Negative,No,Yes,Yes
+Female,26,Job holder,38500,Yes,Unmarried,Mother,Job holder,0,Barishal,Rent,8500,No,Yes,Positive,Yes,No,No
+Female,31,Job holder,44000,No,Married,Father,Unemployed,0,Dhaka,Hostel,13000,No,No,Average,No,Yes,Yes
+Female,25,Housewife,0,No,Unmarried,Father,Businessman,0,Khulna,Own residence,0,No,No,Average,No,Yes,Yes
+Female,23,Job holder,36500,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,16000,No,No,Average,No,Yes,Yes
+Female,38,Housewife,0,Yes,Married,Father,Businessman,2,Dhaka,Rent,17000,No,Yes,Positive,Yes,No,No
+Female,40,Job holder,33000,No,Married,Husband,Job holder,1,Khulna,Hostel,11000,No,No,Average,No,Yes,Yes
+Female,25,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Own residence,0,No,No,Average,No,Yes,Yes
+Female,31,Job holder,37000,Yes,Married,Husband,Job holder,1,Chittagong,Own residence,0,Yes,Yes,Positive,Yes,No,No
+Female,35,Housewife,0,Yes,Married,Father,Unemployed,2,Dhaka,Rent,16000,Yes,Yes,Positive,No,No,No
+Female,32,Job holder,40000,No,Unmarried,Father,Businessman,0,Dhaka,Rent,18000,No,No,Average,Yes,Yes,Yes
+Female,33,Job holder,38000,No,Married,Husband,Job holder,1,Dhaka,Rent,14000,Yes,No,Average,Yes,Yes,Yes
+Female,22,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Rent,9000,No,Yes,Average,No,Yes,Yes
+Female,23,Other,27000,No,Unmarried,Father,Unemployed,0,Barishal,Own residence,0,Yes,Yes,Negative,Yes,Yes,Yes
+Female,28,Housewife,0,No,Unmarried,Father,Job holder,0,Barishal,Rent,12000,No,No,Average,No,Yes,Yes
+Female,31,Job holder,32000,Yes,Unmarried,Father,Businessman,0,Dhaka,Rent,11000,Yes,Yes,Positive,No,No,No
+Female,27,Housewife,0,No,Married,Father,Job holder,1,Dhaka,Hostel,16000,Yes,Yes,Average,Yes,Yes,Yes
+Female,35,Housewife,0,No,Unmarried,Father,Unemployed,0,Chittagong,Rent,12000,Yes,No,Negative,No,Yes,Yes
+Female,34,Housewife,0,Yes,Married,Husband,Businessman,2,Barishal,Hostel,9000,Yes,Yes,Positive,No,No,No
+Female,29,Housewife,0,No,Unmarried,Father,Job holder,0,Chittagong,Rent,7000,No,Yes,Average,No,Yes,Yes
+Female,26,Housewife,0,No,Unmarried,Father,Unemployed,0,Rangpur,Rent,4500,No,No,Negative,Yes,Yes,Yes
+Female,36,Job holder,37000,Yes,Married,Husband,Businessman,1,Chittagong,Hostel,7000,Yes,Yes,Positive,Yes,No,No
+Female,22,Job holder,27000,No,Unmarried,Father,Job holder,0,Barishal,Own residence,0,No,No,Average,Yes,Yes,Yes
+Female,30,Housewife,0,No,Married,Husband,Businessman,1,Dhaka,Rent,8500,No,Yes,Negative,No,Yes,Yes
+Female,23,Job holder,22000,No,Unmarried,Father,Businessman,0,Dhaka,Rent,10000,No,No,Average,No,Yes,Yes
+Female,28,Job holder,32000,No,Unmarried,Father,Unemployed,0,Khulna,Own residence,0,Yes,No,Average,No,Yes,Yes
+Female,31,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Rent,9500,Yes,Yes,Negative,Yes,Yes,Yes
+Female,33,Job holder,51000,Yes,Married,Husband,Job holder,2,Khulna,Rent,8500,No,Yes,Positive,No,No,No
+Female,25,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Hostel,13000,Yes,No,Negative,No,Yes,Yes
+Female,30,Job holder,32000,No,Unmarried,Father,Unemployed,0,Chittagong,Hostel,10000,No,No,Average,No,Yes,Yes
+Female,29,Housewife,0,No,Married,Father,Businessman,1,Chittagong,Rent,14000,Yes,Yes,Average,Yes,Yes,Yes
+Female,27,Job holder,35000,Yes,Unmarried,Father,Unemployed,0,Barishal,Own residence,0,No,Yes,Positive,No,No,No
+Female,24,Housewife,0,No,Married,Husband,Job holder,1,Dhaka,Rent,15000,No,No,Average,No,Yes,Yes
+Female,25,Other,28500,No,Unmarried,Father,Businessman,0,Chittagong,Rent,12000,No,Yes,Average,No,Yes,Yes
+Female,34,Housewife,0,No,Married,Father,Unemployed,1,Khulna,Rent,14000,Yes,No,Average,Yes,Yes,Yes
+Female,28,Job holder,37500,No,Unmarried,Father,Job holder,0,Dhaka,Rent,16000,No,No,Negative,Yes,Yes,Yes
+Female,32,Housewife,0,Yes,Married,Father,Businessman,1,Khulna,Hostel,9500,Yes,Yes,Average,Yes,No,No
+Female,26,Job holder,32000,No,Unmarried,Father,Unemployed,0,Dhaka,Hostel,14000,No,Yes,Average,No,Yes,Yes
+Female,29,Housewife,0,No,Unmarried,Father,Job holder,0,Dhaka,Rent,14500,No,No,Negative,Yes,Yes,Yes
+Female,35,Job holder,30000,No,Married,Father,Businessman,1,Barishal,Rent,11000,Yes,No,Negative,No,Yes,Yes
+Female,27,Housewife,0,No,Married,Husband,Job holder,1,Dhaka,Rent,12000,No,Yes,Average,No,Yes,Yes
+Female,44,Job holder,46500,Yes,Married,Father,Unemployed,2,Khulna,Own residence,,Yes,Yes,Positive,No,No,No
+Female,22,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Rent,12500,No,No,Average,Yes,Yes,Yes
+Female,25,Job holder,28000,No,Married,Husband,Job holder,0,Khulna,Hostel,14000,No,Yes,Negative,No,Yes,Yes
+Female,31,Housewife,0,No,Unmarried,Father,Businessman,0,Chittagong,Rent,17000,Yes,No,Average,No,Yes,Yes
+Female,27,Job holder,18000,No,Unmarried,Father,Job holder,0,Dhaka,Hostel,8000,No,Yes,Negative,Yes,Yes,Yes
+Female,24,Housewife,0,No,Married,Father,Businessman,0,Dhaka,Rent,16000,No,Yes,Average,No,Yes,Yes
+Female,48,Job holder,57000,Yes,Married,Father,Unemployed,3,Dhaka,Rent,17000,Yes,Yes,Average,No,No,No
+Female,25,Housewife,0,Yes,Unmarried,Mother,Housewife,0,Dhaka,Own residence,0,No,Yes,Average,No,No,No
+Female,27,Other,27000,No,Unmarried,Father,Job holder,0,Barishal,Rent,11000,No,No,Average,Yes,Yes,No
+Female,29,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Rent,10000,Yes,Yes,Average,No,Yes,Yes
+Female,24,Job holder,32000,Yes,Unmarried,Father,Job holder,0,Dhaka,Hostel,9000,No,Yes,Positive,No,No,No
+Female,36,Housewife,0,No,Married,Husband,Businessman,2,Dhaka,Rent,15000,No,No,Average,Yes,Yes,Yes
+Female,28,Job holder,45000,Yes,Unmarried,Father,Unemployed,0,Khulna,Own residence,,No,Yes,Positive,Yes,No,No
+Female,39,Housewife,0,No,Married,Husband,Businessman,2,Dhaka,Rent,16000,Yes,Yes,Average,No,Yes,Yes
+Female,22,Job holder,28000,No,Unmarried,Father,Businessman,0,Dhaka,Rent,12000,No,No,Negative,Yes,Yes,Yes
+Female,25,Housewife,0,No,Unmarried,Mother,Housewife,0,Khulna,Hostel,9000,No,No,Negative,Yes,Yes,No
+Female,23,Job holder,18500,No,Married,Husband,Job holder,1,Dhaka,Rent,10000,No,Yes,Average,No,Yes,Yes
+Female,42,Job holder,58000,Yes,Married,Father,Businessman,2,Chittagong,Own residence,,Yes,Yes,Positive,No,No,No
+Female,26,Housewife,0,No,Unmarried,Father,Unemployed,0,Barishal,Hostel,8000,No,No,Average,Yes,Yes,Yes
+Female,28,Job holder,32000,Yes,Married,Husband,Job holder,0,Khulna,Hostel,7500,Yes,Yes,Average,No,No,No
+Female,45,Job holder,28500,No,Married,Father,Unemployed,3,Chittagong,Rent,11500,Yes,Yes,Negative,No,Yes,Yes
+Female,41,Housewife,0,No,Married,Father,Businessman,1,Khulna,Rent,8500,Yes,No,Average,Yes,Yes,Yes
+Female,24,Job holder,16000,No,Unmarried,Father,Job holder,0,Dhaka,Hostel,7500,No,No,Negative,No,Yes,Yes
+Female,42,Job holder,48000,Yes,Married,Father,Unemployed,2,Khulna,Rent,10000,Yes,Yes,Positive,No,No,No
+Female,28,Housewife,0,No,Unmarried,Mother,Housewife,0,Khulna,Own residence,,No,No,Negative,Yes,Yes,Yes
+Female,29,Job holder,21000,No,Married,Husband,Job holder,1,Dhaka,Rent,11000,No,No,Negative,No,Yes,Yes
+Female,31,Job holder,24000,No,Married,Husband,Businessman,1,Khulna,Hostel,8500,Yes,No,Average,Yes,Yes,Yes
+Female,33,Housewife,0,No,Unmarried,Father,Unemployed,0,Khulna,Rent,12000,Yes,No,Negative,No,Yes,Yes
+Female,32,Job holder,23000,Yes,Unmarried,Father,Job holder,0,Dhaka,Rent,13500,No,No,Average,Yes,Yes,Yes
+Female,40,Other,49000,Yes,Married,Father,Unemployed,2,Khulna,Rent,12000,Yes,Yes,Positive,No,No,No
+Female,29,Housewife,0,No,Unmarried,Father,Job holder,0,Dhaka,Hostel,11000,No,No,Negative,No,Yes,Yes
+Female,23,Job holder,18000,No,Unmarried,Father,Businessman,0,Dhaka,Own residence,0,No,Yes,Average,Yes,Yes,Yes
+Female,29,Job holder,30000,Yes,Married,Father,Unemployed,1,Dhaka,Rent,10000,Yes,No,Negative,No,Yes,Yes
+Female,31,Housewife,0,No,Unmarried,Father,Job holder,0,Khulna,Own residence,0,No,No,Average,No,Yes,Yes
+Female,26,Job holder,29500,No,Married,Husband,Job holder,0,Dhaka,Rent,13000,Yes,No,Average,Yes,Yes,Yes
+Female,46,Job holder,56000,Yes,Married,Father,Unemployed,1,Khulna,Rent,19000,Yes,Yes,Positive,No,No,No
+Female,28,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Rent,13500,No,No,Average,Yes,Yes,Yes
+Female,29,Job holder,37000,Yes,Unmarried,Father,Businessman,0,Barishal,Rent,10000,No,Yes,Positive,No,No,No
+Female,34,Job holder,33000,No,Married,Father,Unemployed,1,Khulna,Own residence,0,Yes,No,Negative,Yes,Yes,Yes
+Female,24,Job holder,19000,No,Unmarried,Father,Businessman,0,Dhaka,Hostel,6000,No,No,Negative,No,Yes,No
+Female,36,Housewife,0,No,Unmarried,Father,Unemployed,0,Khulna,Rent,9000,No,Yes,Average,Yes,Yes,Yes
+Female,28,Job holder,29000,No,Married,Father,Businessman,1,Khulna,Rent,12500,Yes,No,Negative,No,Yes,Yes
+Female,25,Other,35000,No,Unmarried,Father,Unemployed,0,Khulna,Hostel,12000,No,No,Average,No,Yes,Yes
+Female,37,Housewife,0,No,NA,Father,Job holder,1,Barishal,Own residence,0,Yes,No,Average,Yes,Yes,Yes
+Female,29,Job holder,40000,Yes,Married,Husband,Job holder,1,Khulna,Rent,15000,No,Yes,Positive,Yes,No,Yes
+Female,33,Job holder,46000,Yes,Married,Husband,Businessman,2,Barishal,Own residence,0,No,Yes,Positive,No,No,Yes
+Female,42,Housewife,0,No,Married,Father,Unemployed,3,Rangpur,Rent,9000,Yes,No,Negative,No,Yes,Yes
+Female,26,Job holder,24000,Yes,Unmarried,Father,Job holder,0,Barishal,Rent,11000,Yes,No,Negative,Yes,Yes,Yes
+Female,27,Job holder,21000,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,8000,No,Yes,Negative,Yes,Yes,Yes
+Female,33,Housewife,0,No,Married,Father,Job holder,1,Dhaka,Hostel,9000,Yes,No,Average,Yes,Yes,No
+Female,29,Job holder,32000,No,Married,Husband,Job holder,1,Chittagong,Hostel,13000,No,Yes,Average,Yes,Yes,Yes
+Female,22,Housewife,0,No,Unmarried,Father,Businessman,0,Dhaka,Hostel,11000,No,No,Negative,No,Yes,Yes
+Female,38,Job holder,33000,Yes,Married,Father,Businessman,2,Dhaka,Own residence,0,Yes,Yes,Positive,No,No,No
+Female,25,Job holder,30000,No,Unmarried,Father,Job holder,0,Dhaka,Rent,14000,No,No,Negative,No,Yes,Yes
+Female,26,Housewife,0,No,Unmarried,Father,Unemployed,0,Barishal,Own residence,0,No,No,Negative,No,Yes,Yes
+Female,40,Other,55000,Yes,Married,Father,Unemployed,2,Barishal,Rent,14000,Yes,Yes,Positive,No,No,No
+Female,32,Job holder,36000,Yes,Married,Husband,Job holder,1,Khulna,Own residence,0,No,No,Negative,No,Yes,Yes
+Female,36,Housewife,0,No,Married,Mother,Housewife,1,Khulna,Rent,11000,Yes,No,Negative,Yes,Yes,Yes
+Female,25,Job holder,26000,No,Unmarried,Father,Businessman,0,Chittagong,Rent,12000,No,No,Average,Yes,Yes,No
+Female,27,Job holder,31000,Yes,Unmarried,Father,Businessman,0,Dhaka,Own residence,0,No,Yes,Positive,No,No,No
+Female,33,Housewife,0,No,Married,Husband,Job holder,1,Khulna,Rent,8000,No,No,Negative,Yes,Yes,Yes
+Female,55,Job holder,54000,Yes,Married,Father,Unemployed,3,Rangpur,Hostel,14000,Yes,Yes,Positive,No,No,No
+Female,28,Housewife,0,No,Unmarried,Father,Businessman,0,Rangpur,Rent,11000,No,Yes,Average,No,Yes,Yes
+Female,42,Job holder,38000,No,Married,Father,Businessman,2,Dhaka,Own residence,0,Yes,No,Negative,Yes,Yes,Yes
+Female,37,Housewife,0,Yes,Married,Father,Job holder,2,Dhaka,Own residence,0,No,Yes,Positive,No,No,No
+Female,24,Job holder,21000,No,Unmarried,Father,Businessman,0,Dhaka,Rent,9000,No,No,Negative,No,Yes,Yes
+Female,26,Job holder,23000,No,Unmarried,Father,Job holder,0,Khulna,Rent,8000,No,No,Negative,Yes,Yes,Yes
+Female,35,Job holder,30000,Yes,Married,Mother,Job holder,2,Dhaka,Rent,12000,No,No,Average,Yes,Yes,Yes
+Female,28,Job holder,27000,Yes,Unmarried,Father,Businessman,0,Dhaka,Own residence,0,Yes,No,Negative,No,Yes,Yes
+Female,30,Other,24000,No,Unmarried,Father,Job holder,0,Dhaka,Rent,11000,No,No,Negative,Yes,Yes,Yes
+Female,21,Job holder,26000,Yes,Unmarried,Mother,Housewife,0,Khulna,Rent,8000,No,Yes,Average,No,No,No
+Female,32,Job holder,21000,No,Unmarried,Father,Job holder,0,Rangpur,Rent,7000,No,No,Negative,No,Yes,Yes
+Female,26,Job holder,20000,No,Unmarried,Father,Businessman,0,Barishal,Hostel,8000,No,No,Negative,Yes,Yes,Yes
+Female,37,Job holder,35000,Yes,NA,Husband,Job holder,2,Rangpur,Rent,12000,Yes,Yes,Average,Yes,Yes,Yes
+Female,38,Job holder,42000,Yes,Married,Father,Businessman,1,Chittagong,Hostel,13500,Yes,Yes,Average,No,No,No
+Female,42,Job holder,34000,No,Married,Father,Unemployed,2,Chittagong,Rent,13000,Yes,No,Average,No,Yes,Yes
+Female,28,Job holder,16000,No,NA,Father,Job holder,0,Barishal,Own residence,0,No,No,Negative,No,Yes,Yes
+Female,24,Job holder,37000,Yes,Unmarried,Father,Job holder,0,Chittagong,Rent,11000,No,Yes,Positive,No,No,No
+Female,45,Job holder,37000,Yes,Married,Husband,Businessman,2,Dhaka,Hostel,13500,Yes,No,Average,Yes,Yes,Yes
+Female,23,Job holder,20000,No,Unmarried,Father,Job holder,0,Khulna,Rent,7000,No,Yes,Negative,Yes,Yes,Yes
+Female,36,Job holder,23000,No,Married,Husband,Unemployed,1,Chittagong,Own residence,6000,Yes,No,Negative,No,Yes,No
+Female,27,Job holder,18000,No,Unmarried,Father,Businessman,0,Dhaka,Rent,8000,No,No,Negative,Yes,Yes,Yes
+Female,32,Housewife,0,No,Married,Husband,Job holder,1,Dhaka,Rent,14000,Yes,Yes,Average,No,Yes,Yes
+Female,24,Job holder,36000,Yes,NA,Father,Job holder,0,Rangpur,Own residence,0,No,Yes,Positive,No,No,No
+Female,27,Job holder,22000,No,Married,Father,Businessman,0,Barishal,Rent,9500,No,No,Negative,Yes,Yes,Yes
+Female,50,Job holder,58000,Yes,Married,Father,Unemployed,3,Khulna,Rent,17000,Yes,Yes,Positive,Yes,No,No
+Female,45,NA,33000,No,Married,Husband,Unemployed,1,Khulna,Rent,12500,Yes,No,Negative,Yes,Yes,Yes
+Female,33,Job holder,21000,No,Unmarried,Father,Businessman,0,Dhaka,Own residence,0,No,No,Negative,No,Yes,Yes
+Female,38,Housewife,0,No,Married,Father,Unemployed,1,Barishal,Own residence,0,Yes,Yes,Negative,No,No,No
+Female,35,Job holder,7000,Yes,Married,Husband,Businessman,2,Barishal,Hostel,13500,Yes,No,Average,Yes,Yes,No
+Female,20,Other,24000,No,Unmarried,Father,Job holder,0,Khulna,Rent,3000,No,No,Negative,Yes,Yes,Yes
+Female,43,Job holder,21000,No,Unmarried,Husband,Unemployed,1,Chittagong,Own residence,6000,Yes,No,Negative,Yes,No,No
+Female,19,Job holder,19000,Yes,Unmarried,Father,Businessman,0,Barishal,Hostel,7000,No,No,Negative,Yes,No,No
+Female,32,Job holder,30000,Yes,Married,Husband,Unemployed,1,Dhaka,Rent,14000,Yes,Yes,Negative,No,Yes,Yes
+Female,29,Housewife,0,No,Unmarried,Father,Job holder,0,Chittagong,Rent,7000,No,Yes,Average,No,Yes,Yes
+Female,26,Job holder,30000,No,Unmarried,Father,Unemployed,0,Rangpur,Rent,4500,No,No,Negative,Yes,Yes,Yes
+Female,36,Housewife,0,No,Married,Husband,Businessman,1,Chittagong,Hostel,7000,Yes,Yes,Negative,Yes,No,No
+Female,22,Job holder,27000,Yes,Unmarried,Father,Job holder,0,Barishal,Own residence,0,No,No,Average,Yes,Yes,Yes
+Female,30,Housewife,0,No,Married,Husband,Businessman,1,Dhaka,Rent,8500,No,Yes,Negative,No,Yes,Yes
+Female,23,Job holder,22000,Yes,Unmarried,Father,Unemployed,0,Dhaka,Rent,10000,No,No,Negative,No,No,No
+Female,28,Housewife,0,No,Unmarried,Father,Unemployed,0,Khulna,Own residence,0,Yes,No,Average,No,Yes,Yes
+Female,31,Job holder,30000,Yes,Unmarried,Father,Unemployed,0,Dhaka,Rent,9500,Yes,Yes,Negative,Yes,Yes,Yes
+Female,33,Housewife,0,No,Married,Husband,Job holder,2,Khulna,Rent,8500,No,Yes,Positive,No,No,No
+Female,25,Other,30000,Yes,Unmarried,Father,Businessman,0,Dhaka,Hostel,13000,Yes,No,Negative,No,Yes,Yes
+Female,30,Housewife,0,No,Unmarried,Father,Unemployed,0,Chittagong,Hostel,10000,No,No,Negative,No,Yes,Yes
+Female,29,Job holder,30000,No,Married,Father,Unemployed,1,Chittagong,Rent,14000,Yes,Yes,Average,Yes,Yes,Yes
+Female,27,Housewife,0,Yes,Unmarried,Father,Unemployed,0,Barishal,Own residence,0,No,Yes,Positive,No,No,No
+Female,24,Job holder,30000,No,Married,Husband,Job holder,1,Dhaka,Rent,15000,No,No,Average,No,No,No
+Female,25,Housewife,0,No,Unmarried,Father,Businessman,0,Chittagong,Rent,12000,No,Yes,Negative,No,Yes,Yes
+Female,34,Job holder,30000,No,Married,Father,Unemployed,1,Khulna,Rent,14000,Yes,No,Average,Yes,Yes,Yes
+Female,28,Housewife,0,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,16000,No,No,Negative,Yes,No,No
+Female,32,Job holder,30000,Yes,Married,Father,Businessman,1,Khulna,Hostel,9500,Yes,Yes,Average,Yes,No,No
+Female,26,Housewife,0,No,Unmarried,Father,Unemployed,0,Dhaka,Hostel,14000,No,Yes,Average,No,Yes,Yes
+Female,29,Housewife,0,Yes,Unmarried,Father,Unemployed,0,Dhaka,Rent,14500,No,No,Negative,Yes,Yes,Yes
+Female,20,Housewife,0,No,Married,Husband,Businessman,2,Khulna,Rent,8500,No,Yes,Negative,No,No,No
+Female,53,Job holder,22000,Yes,Married,Husband,Unemployed,0,Dhaka,Rent,10000,No,No,Negative,No,No,No
+Female,68,Housewife,0,No,Unmarried,Father,Unemployed,0,Khulna,Own residence,0,Yes,No,Average,No,Yes,Yes
+Female,31,Other,30000,No,Unmarried,Father,Unemployed,0,Dhaka,Rent,9500,Yes,Yes,Negative,Yes,Yes,No
+Female,58,NA,51000,Yes,Married,Father,Job holder,1,Rajshahi,Hostel,10000,Yes,No,Average,Yes,Yes,Yes
+Female,39,Job holder,59000,Yes,Married,Father,Unemployed,2,Dhaka,Own residence,0,Yes,Yes,Positive,No,No,No
+Female,57,Housewife,0,No,Married,Husband,Businessman,1,Dhaka,Own residence,0,Yes,No,Average,Yes,Yes,Yes
+Female,62,Job holder,19000,Yes,Unmarried,Mother,Housewife,0,Rajshahi,Rent,19000,No,Yes,Positive,No,No,No
+Female,31,Housewife,,No,Unmarried,Father,Job holder,0,Dhaka,Rent,7000,No,No,Average,Yes,Yes,Yes
+Female,47,Job holder,21000,No,Married,Father,Businessman,1,Rajshahi,Rent,11000,Yes,Yes,Positive,No,Yes,Yes
+Female,62,Housewife,0,No,Unmarried,Father,Businessman,0,Sylhet,Hostel,3000,Yes,Yes,Positive,No,No,No
+Female,35,Job holder,22000,No,Married,Father,Job holder,1,Rajshahi,Rent,3000,No,Yes,Average,Yes,Yes,Yes
+Female,26,Housewife,0,No,Unmarried,Father,Businessman,0,Rangpur,Own residence,2000,Yes,No,Positive,No,Yes,Yes
+Female,27,Job holder,31000,No,Unmarried,Father,Unemployed,0,Rangpur,Own residence,1500,No,Yes,Average,No,No,No
